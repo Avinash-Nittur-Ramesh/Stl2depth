@@ -62,7 +62,7 @@ if __name__ == '__main__':
     
     width = 200
     
-    path = "./"
+    path = "./stl_files/"
     # file_name = "modified_cube_ascii"
     # file_name = "Dolphin_cropped"
     file_name = "tactile_display_1_basic"
@@ -120,6 +120,6 @@ if __name__ == '__main__':
         cv2.waitKey(0)
 
     if SAVEIMG:
-        save_path = str(file_name + ".png")
+        save_path = str("./depth_images/"+file_name + ".png")
         print("saving at this path: ", save_path)
         cv2.imwrite(save_path, im)
