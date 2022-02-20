@@ -1,0 +1,86 @@
+solid b'Exported from Blender-2.92.0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+facet normal 0.000000 0.000000 -4.000000
+  outer loop
+    vertex -1.000000 -1.000000 -1.000000
+    vertex -1.000000 1.000000 -1.000000
+    vertex 1.000000 -1.000000 -1.000000
+  endloop
+endfacet
+facet normal 0.000000 0.000000 -4.000000
+  outer loop
+    vertex 1.000000 -1.000000 -1.000000
+    vertex -1.000000 1.000000 -1.000000
+    vertex 1.000000 1.000000 -1.000000
+  endloop
+endfacet
+facet normal -3.879182 -0.574810 0.488286
+  outer loop
+    vertex -1.000000 -1.000000 -1.000000
+    vertex -0.755857 -0.747981 1.236267
+    vertex -1.000000 1.000000 1.354401
+  endloop
+endfacet
+facet normal -4.708802 0.000000 0.000000
+  outer loop
+    vertex -1.000000 -1.000000 -1.000000
+    vertex -1.000000 1.000000 1.354401
+    vertex -1.000000 1.000000 -1.000000
+  endloop
+endfacet
+facet normal 0.546964 -0.057683 4.126379
+  outer loop
+    vertex -0.755857 -0.747981 1.236267
+    vertex 1.000000 -1.000000 1.000000
+    vertex 1.244143 1.315023 1.000000
+  endloop
+endfacet
+facet normal 0.656701 -0.178584 3.999631
+  outer loop
+    vertex -0.755857 -0.747981 1.236267
+    vertex 1.244143 1.315023 1.000000
+    vertex -1.000000 1.000000 1.354401
+  endloop
+endfacet
+facet normal 4.000000 0.000000 0.000000
+  outer loop
+    vertex 1.000000 -1.000000 1.000000
+    vertex 1.000000 -1.000000 -1.000000
+    vertex 1.000000 1.000000 -1.000000
+  endloop
+endfacet
+facet normal 4.630046 -0.488286 -0.488286
+  outer loop
+    vertex 1.000000 -1.000000 1.000000
+    vertex 1.000000 1.000000 -1.000000
+    vertex 1.244143 1.315023 1.000000
+  endloop
+endfacet
+facet normal 0.000000 4.000000 -0.630046
+  outer loop
+    vertex 1.000000 1.000000 -1.000000
+    vertex -1.000000 1.000000 -1.000000
+    vertex 1.244143 1.315023 1.000000
+  endloop
+endfacet
+facet normal -0.741691 5.283613 0.000000
+  outer loop
+    vertex -1.000000 1.000000 -1.000000
+    vertex -1.000000 1.000000 1.354401
+    vertex 1.244143 1.315023 1.000000
+  endloop
+endfacet
+facet normal 0.000000 -4.000000 0.000000
+  outer loop
+    vertex -1.000000 -1.000000 -1.000000
+    vertex 1.000000 -1.000000 -1.000000
+    vertex 1.000000 -1.000000 1.000000
+  endloop
+endfacet
+facet normal -0.504037 -3.984249 0.504037
+  outer loop
+    vertex -1.000000 -1.000000 -1.000000
+    vertex 1.000000 -1.000000 1.000000
+    vertex -0.755857 -0.747981 1.236267
+  endloop
+endfacet
+endsolid b'Exported from Blender-2.92.0\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
